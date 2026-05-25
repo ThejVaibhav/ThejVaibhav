@@ -1,17 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naruboyina%20Thej%20Vaibhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+decisions+📊;Building+intelligent+systems+that+think+🧠;Agentic+AI+%7C+GraphRAG+%7C+LLM+Engineering;From+regression+models+to+ReAct+agents+🚀)](https://git.io/typing-svg)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naruboyina-thej-vaibhav-7a3b0a21b/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejvaibhavnaruboyina@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThejVaibhav)
 </div>
-
-
 
 ## 🧬 About Me
 
@@ -30,16 +23,22 @@ vaibhav = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,postgres,mongodb,mysql,fastapi,docker,kubernetes,git,react,typescript,tailwind,vite,aws,azure&perline=18" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mongodb,fastapi,docker,git,react,typescript,aws&perline=10" />
 </div>
 
-
-
 <div align="center">
+
 <br/>
 
 *"Data without intelligence is noise. Intelligence without data is guesswork. I build the bridge between both."*
 
+<br/>
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naruboyina-thej-vaibhav-7a3b0a21b/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejvaibhavnaruboyina@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThejVaibhav)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
