@@ -15,7 +15,6 @@ vaibhav = {
     "education"  : "B.Tech CS (Data Science) VIT Vellore, 2025",
     "core_skills": ["Agentic AI", "GraphRAG", "ML Modeling", "Power BI", "FastAPI"],
     "currently"  : "Building AI-powered systems & exploring LLM architectures",
-    "2026_goals" : ["Land a full-time role in Data / AI", "Build impactful open-source tools"],
 }
 ```
 
