@@ -23,13 +23,11 @@
 thej = {
     "name"       : "Naruboyina Thej Vaibhav",
     "location"   : "Bengaluru, India 🇮🇳",
-    "education"  : "B.Tech CS (Data Science) — VIT Vellore, 2025 | CGPA: 8.01",
+    "education"  : "B.Tech CS (Data Science) VIT Vellore, 2025 | CGPA: 8.01",
     "roles"      : ["Data Analyst", "AI Engineer", "Full Stack Developer"],
     "core_skills": ["Agentic AI", "GraphRAG", "ML Modeling", "Power BI", "FastAPI"],
-    "experience" : "Data Analyst Consultant @ Rubixe.com (6 months)",
     "currently"  : "Building AI-powered systems & exploring LLM architectures",
     "2026_goals" : ["Land a full-time role in Data / AI", "Build impactful open-source tools"],
-    "fun_fact"   : "I got a job offer shot at Centific by winning a hackathon 🏆"
 }
 ```
 
@@ -76,71 +74,6 @@ thej = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 IT HelpDesk AI Agent
-**Centific Premier Hackathon 2.0**
-
-Built a production-grade AI HelpDesk with a 3-layer architecture — LLM reasoning core, Azure TTS avatar, and a bot that joins MS Teams as a live participant.
-
-- Confidence-based escalation to humans
-- 6-role RBAC with JWT + audit logs
-- Admin panel with no-code tool builder
-
-`FastAPI` `React 18` `Claude Sonnet` `Azure TTS` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🕸️ GraphRAG Multi-Hop Reasoning
-**Personal Project**
-
-Answers questions that span multiple documents by combining knowledge graphs (Neo4j) and vector search (ChromaDB) — going beyond what standard RAG can do.
-
-- spaCy entity extraction + Gemini knowledge graph
-- Evaluated with F1, Exact Match & faithfulness metrics
-- Deployed via FastAPI + Streamlit + Docker
-
-`Neo4j` `ChromaDB` `Gemini API` `spaCy` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Online Fraud Detection
-**ML Classification Project**
-
-Tackled extreme class imbalance (0.17% fraud) — AUC-ROC: 0.98, F1: 0.94.
-
-- SMOTE + XGBoost pipeline
-- Transaction velocity feature engineering
-- SHAP explainability for business stakeholders
-- Benchmarked 4 algorithms with full metrics
-
-`XGBoost` `SHAP` `Scikit-learn` `Pandas` `Seaborn`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Startup Profitability Dashboard
-**Rubixe.com — Client Project**
-
-Built end-to-end analytics on startup financial data for a consulting client.
-
-- Multiple Linear Regression (R² = 0.95)
-- Identified R&D spend as the top profit driver
-- Power BI dashboard with KPI cards, scatter plots & state-wise filters
-
-`Python` `Excel` `Power BI` `Regression Analysis`
-
-</td>
-</tr>
-</table>
 
 ---
 
