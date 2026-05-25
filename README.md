@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naruboyina%20Thej%20Vaibhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naruboyina%20Thej%20Vaibhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+decisions+📊;Building+intelligent+systems+that+think+🧠;Agentic+AI+%7C+GraphRAG+%7C+LLM+Engineering;From+regression+models+to+ReAct+agents+🚀)](https://git.io/typing-svg)
